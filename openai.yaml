@@ -1,0 +1,4 @@
+interface:
+  display_name: "美股长期投资研究助手"
+  short_description: "长期研究单只美股的公司质量、估值位置和下行风险。"
+  default_prompt: "Use $us-equity-investment-research to research one US stock for long-term study, separating quality, valuation, downside risk, and filing clues."
